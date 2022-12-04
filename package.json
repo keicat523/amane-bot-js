@@ -1,0 +1,14 @@
+{
+  "name": "none",
+  "version": "1.0.0",
+  "description": "神社の置き猫",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "keicat523",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
